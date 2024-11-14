@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PointOfSale", "PointOfSale\PointOfSale.vbproj", "{3A6E3808-CC8A-47F5-8E74-D7F52653DD83}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupPOS", "SetupPOS\SetupPOS.vdproj", "{219679FE-5B02-485C-90F6-84E7B1005DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6E3808-CC8A-47F5-8E74-D7F52653DD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6E3808-CC8A-47F5-8E74-D7F52653DD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6E3808-CC8A-47F5-8E74-D7F52653DD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6E3808-CC8A-47F5-8E74-D7F52653DD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219679FE-5B02-485C-90F6-84E7B1005DE1}.Debug|Any CPU.ActiveCfg = Debug
+		{219679FE-5B02-485C-90F6-84E7B1005DE1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
