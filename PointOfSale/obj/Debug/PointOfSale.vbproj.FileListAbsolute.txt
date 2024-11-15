@@ -136,3 +136,6 @@ C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PointOfSale\PointOfSale\ob
 C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ClosePurchaseOrder.resources
 C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.CashPickUp.resources
 C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ProductSearchSM.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PointOfSale_\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PointOfSale_\PointOfSale\obj\Debug\PointOfSale.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PointOfSale_\PointOfSale\obj\Debug\PointOfSale.pdb
