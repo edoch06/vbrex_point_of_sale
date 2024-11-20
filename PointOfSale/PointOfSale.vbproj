@@ -112,6 +112,12 @@
     <Compile Include="BlockedGroupSelection.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="CancelGiftRegistry.Designer.vb">
+      <DependentUpon>CancelGiftRegistry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CancelGiftRegistry.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -143,6 +149,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BlockedGroupSelection.resx">
       <DependentUpon>BlockedGroupSelection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelGiftRegistry.resx">
+      <DependentUpon>CancelGiftRegistry.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
