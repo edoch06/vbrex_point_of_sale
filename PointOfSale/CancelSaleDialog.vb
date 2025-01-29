@@ -7,7 +7,7 @@ Imports System.Drawing.Printing
 Imports System.IO
 Imports System.Text
 Imports PointOfSale.ClassConnections
-Public Class CancelQuotation
+Public Class CancelSaleDialog
 
 
 End Class

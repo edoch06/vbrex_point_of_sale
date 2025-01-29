@@ -130,6 +130,18 @@
     <Compile Include="CancelPOrder.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="CancelQuotation.Designer.vb">
+      <DependentUpon>CancelQuotation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CancelQuotation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelSaleDialog.Designer.vb">
+      <DependentUpon>CancelSaleDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CancelSaleDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -173,6 +185,14 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CancelPOrder.resx">
       <DependentUpon>CancelPOrder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelQuotation.resx">
+      <DependentUpon>CancelQuotation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelSaleDialog.resx">
+      <DependentUpon>CancelSaleDialog.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
